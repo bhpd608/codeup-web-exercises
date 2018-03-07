@@ -1,0 +1,39 @@
+/*<link href="https://fonts.googleapis.com/css?family=Karma|Montserrat" rel="stylesheet">*/
+
+body {
+    background-color: beige;
+    background-image: url("../img/eye.png");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 300px;
+
+}
+#top {text-align: center;
+}
+
+h1, #main-header {
+    color: red;
+    text-decoration: underline;
+
+    background: yellow;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+ul  {
+    list-style-type: circle;
+    }
+
+table, tr, td, th {
+    border: 2px darkblue solid;
+}
+
+a:hover {
+    color: gold;
+}
+
+h2 {
+    text-decoration: underline;
+    color: blue;
+}
