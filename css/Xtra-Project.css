@@ -1,0 +1,33 @@
+.box {
+    width: 75px;
+    height: 250px;
+    padding: 10px;
+    font-weight: bold;
+    color: #FFF;
+    margin-top: 50px;
+    margin-right: 0;
+    float: left;
+    position: relative;
+}
+
+#box-blue {
+    background-color: blue;
+}
+
+#box-green {
+    background-color: green;
+    width: 150px;
+}
+
+#box-red {
+    background-color: red;
+    border-bottom-left-radius: 70%;
+    position:relative;
+    top: -10px;
+    right: -12px;
+    float:right;
+    margin-top: 0em;
+
+}
+
+
