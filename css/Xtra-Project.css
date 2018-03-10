@@ -1,6 +1,6 @@
 .box {
-    width: 75px;
-    height: 250px;
+    width: 150px;
+    height: 500px;
     padding: 10px;
     font-weight: bold;
     color: #FFF;
@@ -10,13 +10,16 @@
     position: relative;
 }
 
+.text {
+    font-family: sans-serif;
+}
 #box-blue {
     background-color: blue;
 }
 
 #box-green {
     background-color: green;
-    width: 150px;
+    width: 300px;
 }
 
 #box-red {
