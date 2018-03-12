@@ -34,9 +34,9 @@
     float: left;
     margin-bottom: 20px;
     padding: 10px;
-    border: 1px black solid;
+    /*border: 1px black solid;*/
     box-sizing: border-box;
-    background-color: #d2d8c7;
+    /*background-color: #d2d8c7;*/
 }
 
 .column.one-third {
@@ -45,24 +45,24 @@
 }
 .column.one-half {
     width: 50%;
-    border: 1px black solid;
+    /*border: 1px black solid;*/
     box-sizing: border-box;
-    background-color: #d2d8c7;
+    /*background-color: #d2d8c7;*/
 }
 
 .column.one-fourth {
     width: 25%;
-    border: 1px black solid;
+    /*border: 1px black solid;*/
     box-sizing: border-box;
-    background-color: #d2d8c7;
+    /*background-color: #d2d8c7;*/
 
 }
 
 .column.one-eighth {
     width: 12.5%;
-    border: 1px black solid;
+    /*border: 1px black solid;*/
     box-sizing: border-box;
-    background-color: #d2d8c7;
+    /*background-color: #d2d8c7;*/
     margin-bottom: 40px;
 }
 

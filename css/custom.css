@@ -1,0 +1,20 @@
+.display-4  {
+    text-align: center;
+}
+
+.display-4  {
+    text-decoration: red;
+}
+
+.lead   {
+    text-align: center;
+}
+
+.lead   {
+    text-decoration: white;
+}
+
+.jumbotron {
+    background: url('http://java.codeup.com/examples/bootstrap/pizza.png') no-repeat center center;
+
+}
