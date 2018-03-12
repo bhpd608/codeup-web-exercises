@@ -1,20 +1,57 @@
-.display-4  {
-    text-align: center;
+@media screen and (max-width:767px) {
+
+    .display-4 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .display-4 {
+        color: black;
+    }
+
+    .lead {
+        text-align: center;
+    }
+
+    .lead {
+        color: mediumblue;
+        font-weight: bold;
+
+    }
+
+    .jumbotron {
+        background: url('http://java.codeup.com/examples/bootstrap/pizza.png') no-repeat center center;
+
+    }
 }
 
-.display-4  {
-    text-decoration: red;
+
+/*This is for Web Page Size*/
+
+@media screen and (min-width:768px) {
+
+    .display-4 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .display-4 {
+        color: black;
+    }
+
+    .lead {
+        text-align: center;
+    }
+
+    .lead {
+        color: mediumblue;
+        font-weight: bold;
+    }
+
+    .jumbotron {
+        background: url('http://java.codeup.com/examples/bootstrap/pizza.png') no-repeat center center;
+
+
+    }
 }
 
-.lead   {
-    text-align: center;
-}
-
-.lead   {
-    text-decoration: white;
-}
-
-.jumbotron {
-    background: url('http://java.codeup.com/examples/bootstrap/pizza.png') no-repeat center center;
-
-}
