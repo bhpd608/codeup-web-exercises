@@ -1,31 +1,49 @@
+
 @media screen and (max-width:767px) {
 
     .display-4 {
         text-align: center;
+        margin-top: 10%;
         margin-bottom: 20px;
+        margin-left: 20%;
+        margin-right: 20%;
+        background-color: whitesmoke;
+
     }
 
     .display-4 {
         color: black;
+
     }
 
     .lead {
         text-align: center;
+        border-radius: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
     }
 
     .lead {
         color: mediumblue;
         font-weight: bold;
+        background-color: whitesmoke;
+        padding: 20px;
 
     }
 
+    .lead2  {
+        text-align: center;
+
+    }
     .jumbotron {
         background: url('http://java.codeup.com/examples/bootstrap/pizza.png') no-repeat center center;
 
     }
 }
 
-
+    .card-body  {
+        float: left;
+    }
 /*This is for Web Page Size*/
 
 @media screen and (min-width:768px) {
@@ -33,21 +51,34 @@
     .display-4 {
         text-align: center;
         margin-bottom: 20px;
+        margin-left: 25%;
+        margin-right: 25%;
+        background-color: whitesmoke;
+
     }
 
     .display-4 {
         color: black;
+        font-weight: bold;
     }
 
     .lead {
         text-align: center;
+        border-radius: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
     }
 
     .lead {
         color: mediumblue;
         font-weight: bold;
+        background-color: whitesmoke;
     }
 
+    .lead2  {
+        text-align: center;
+
+    }
     .jumbotron {
         background: url('http://java.codeup.com/examples/bootstrap/pizza.png') no-repeat center center;
 
