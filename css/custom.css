@@ -31,19 +31,17 @@
 
     }
 
-    .lead2  {
+    .lead2 {
         text-align: center;
 
     }
-    .jumbotron {
+
+    .jumbotron  {
         background: url('http://java.codeup.com/examples/bootstrap/pizza.png') no-repeat center center;
 
     }
-}
 
-    .card-body  {
-        float: left;
-    }
+}
 /*This is for Web Page Size*/
 
 @media screen and (min-width:768px) {
@@ -75,14 +73,18 @@
         background-color: whitesmoke;
     }
 
-    .lead2  {
+    .lead2 {
         text-align: center;
 
     }
+
     .jumbotron {
         background: url('http://java.codeup.com/examples/bootstrap/pizza.png') no-repeat center center;
 
-
     }
-}
 
+    .btn-group {
+        float: right;
+    }
+
+}
